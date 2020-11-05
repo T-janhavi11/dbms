@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.carousel-inner img{
+    width: 100%;
+    height:90%;
+}
+.About_head{
+    align-items: center;
+    text-align: center;
+}
+.imgdetails{
+    width:100%;
+    height: 300px !important;
+}
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
